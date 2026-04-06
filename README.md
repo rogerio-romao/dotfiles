@@ -2,4 +2,6 @@
 
 Dotfiles and configs
 
--   iTerm2 full settings export
+- iTerm2 full settings export
+- zshrc
+- vscode profile settings
